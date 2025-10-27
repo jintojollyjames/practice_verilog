@@ -1,0 +1,3 @@
+References:
+
+[1] “Getting started with FPGAs”, Russell Merrick, ISBN-13: 978-1-7185-0295-6
