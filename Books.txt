@@ -1,3 +1,4 @@
 References:
 
 [1] “Getting started with FPGAs”, Russell Merrick, ISBN-13: 978-1-7185-0295-6
+[2] "Design Through Verilog HDL", T. R. Padmanabhan, B. Bala Tripura Sundari, ISBN 0-471-44148-1 
