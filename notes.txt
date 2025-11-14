@@ -1,0 +1,3 @@
+The Verilog language has a dual function – one fulfilling the need for a design description and the other fulfilling the need for verifying the design for functionality and
+timing constraints like propagation delay, critical path delay, slack, setup, and hold times [Smith DJ, Wai-Kai].
+
